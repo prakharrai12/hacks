@@ -123,8 +123,8 @@ nari/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/prakharrai12/hacks.git
+cd hacks
 ```
 
 ### 2. Install Dependencies
